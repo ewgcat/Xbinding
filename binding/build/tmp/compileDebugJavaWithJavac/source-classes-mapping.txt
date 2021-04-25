@@ -1,0 +1,4 @@
+com/lishuaihua/binding/BuildConfig.java
+ com.lishuaihua.binding.BuildConfig
+com/lishuaihua/binding/DataBindingTriggerClass.java
+ com.lishuaihua.binding.DataBindingTriggerClass

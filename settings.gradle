@@ -1,0 +1,2 @@
+include ':app' ,':binding'
+rootProject.name = "Xbinding"
